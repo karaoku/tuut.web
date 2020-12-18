@@ -1,0 +1,7 @@
+{
+    "name": "lenovo/cms",
+    "require": {
+        "sendgrid/sendgrid": "^7.4",
+        "google/apiclient": "^2.0"
+    }
+}
